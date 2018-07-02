@@ -2,7 +2,7 @@
 
 Awesome list of React headless components! PRs are welcome.
 
-> Read more on the concept of headless components [here](https://medium.com/merrickchristensen/headless-user-interface-components-565b0c0f2e18) - an excellent post by @iammerrick.
+> Read more on the concept of headless components [here](https://medium.com/merrickchristensen/headless-user-interface-components-565b0c0f2e18) - an excellent post by [iammerrick](https://github.com/iammerrick).
 
 ## Components
 
