@@ -11,3 +11,4 @@ Awesome list of React headless components! PRs are welcome.
 - [React Selected](https://github.com/jxom/react-selected) - React component to build flexible and accessible radio buttons/elements
 - [React Ranger](https://github.com/react-tools/react-ranger) - A headless render-prop component for building range and multi-range sliders in React.
 - [React T-Minus](https://github.com/jxom/react-t-minus) - React component to handle simple countdowns
+- [Dayzed](https://github.com/deseretdigital/dayzed) - Primitives to build simple, flexible, WAI-ARIA compliant React date-picker components.
