@@ -12,3 +12,4 @@ Awesome list of React headless components! PRs are welcome.
 - [React Ranger](https://github.com/react-tools/react-ranger) - A headless render-prop component for building range and multi-range sliders in React.
 - [React T-Minus](https://github.com/jxom/react-t-minus) - React component to handle simple countdowns
 - [Dayzed](https://github.com/deseretdigital/dayzed) - Primitives to build simple, flexible, WAI-ARIA compliant React date-picker components.
+- [React Albus](https://github.com/americanexpress/react-albus): React component library for building declarative multi-step flows (wizards).
