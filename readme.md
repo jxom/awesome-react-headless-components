@@ -14,3 +14,4 @@ Awesome list of React headless components! PRs are welcome.
 - [React Selected](https://github.com/jxom/react-selected) - React component to build flexible and accessible radio buttons/elements
 - [React T-Minus](https://github.com/jxom/react-t-minus) - React component to handle simple countdowns
 - [React Toggled](https://github.com/kentcdodds/react-toggled) - React component to build simple, flexible, and accessible toggle components
+- [React Values](https://github.com/ianstormtaylor/react-values) - A set of tiny, composable React components for handling state with render props.
