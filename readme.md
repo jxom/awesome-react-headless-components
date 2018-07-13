@@ -23,3 +23,4 @@ Awesome list of React headless components! PRs are welcome.
 ## Articles
 
 - [Headless User Interface Components](https://medium.com/merrickchristensen/headless-user-interface-components-565b0c0f2e18) by [iammerrick](https://github.com/iammerrick)
+- [Creating the ultimate flexibility via Container components in React](https://medium.com/zendesk-engineering/creating-the-ultimate-flexibility-via-container-components-in-react-e4b8eca5338c) by [Ryan Seddon](https://github.com/ryanseddon)
