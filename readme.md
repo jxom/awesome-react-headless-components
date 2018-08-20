@@ -4,6 +4,10 @@ Awesome list of React headless components! PRs are welcome.
 
 ## Components
 
+### General
+
+- [React Renderless](https://github.com/alexkrolick/react-renderless): Component library that provides primitives for building headless components
+
 ### UI
 
 - [React Albus](https://github.com/americanexpress/react-albus): React component library for building declarative multi-step flows (wizards)
