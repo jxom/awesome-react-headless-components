@@ -25,6 +25,7 @@ Awesome list of React headless components! PRs are welcome.
 - [React Virtual](https://github.com/tannerlinsley/react-virtual) - Hooks for virtualizing scrollable elements in React
 - [use-select](https://github.com/tannerlinsley/use-select) - A react-hook for building enhanced input components.
 - [React Aria](https://react-spectrum.adobe.com/react-aria/index.html) - A library of React Hooks that provides accessible UI primitives for your design system.
+- [React Hook Form](https://github.com/react-hook-form/react-hook-form) - React Hooks for forms validation (Web + React Native)
 
 ### Data
 
