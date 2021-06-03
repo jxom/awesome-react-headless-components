@@ -22,6 +22,7 @@ Awesome list of React headless components! PRs are welcome.
 - [React Values](https://github.com/ianstormtaylor/react-values) - A set of tiny, composable React components for handling state with render props.
 - [React Table](https://github.com/tannerlinsley/react-table) - Hooks for building lightweight, fast and extendable datagrids for React
 - [React Headless Notifier](https://react-headless-notifier.recodable.io) - React component library for building highly customizable notification system.
+- [React Virtual](https://github.com/tannerlinsley/react-virtual) - Hooks for virtualizing scrollable elements in React
 
 ### Data
 
