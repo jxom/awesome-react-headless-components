@@ -24,6 +24,7 @@ Awesome list of React headless components! PRs are welcome.
 - [React Headless Notifier](https://react-headless-notifier.recodable.io) - React component library for building highly customizable notification system.
 - [React Virtual](https://github.com/tannerlinsley/react-virtual) - Hooks for virtualizing scrollable elements in React
 - [use-select](https://github.com/tannerlinsley/use-select) - A react-hook for building enhanced input components.
+- [React Aria](https://react-spectrum.adobe.com/react-aria/index.html) - A library of React Hooks that provides accessible UI primitives for your design system.
 
 ### Data
 
