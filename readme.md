@@ -10,6 +10,7 @@ Awesome list of React headless components! PRs are welcome.
 
 ### UI
 
+- [React Headless Hooks](https://github.com/webeetle/react-headless-hooks): React Hooks for build and design powerful components while retaining 100% control over markup and styles.
 - [React Albus](https://github.com/americanexpress/react-albus): React component library for building declarative multi-step flows (wizards)
 - [Dayzed](https://github.com/deseretdigital/dayzed) - Primitives to build simple, flexible, WAI-ARIA compliant React date-picker components
 - [Downshift](https://github.com/paypal/downshift) - Primitive to build simple, flexible, WAI-ARIA compliant enhanced input React components
