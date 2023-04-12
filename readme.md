@@ -33,6 +33,7 @@ Awesome list of React headless components! PRs are welcome.
 
 - [React Loads](https://github.com/jxom/react-loads) - A headless React component to handle promise states and response data.
 - [Restful React](https://github.com/contiamo/restful-react) - A set of data-fetching components that abstract away the state of requests, providing data to their children.
+- [Whizflow](https://github.com/itamarbareket/whizflow) - A lightweight, headless and extensible React library for building dynamic multi-step forms or troubleshooting workflows.
 
 
 ### Framework
