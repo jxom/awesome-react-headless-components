@@ -22,7 +22,7 @@ Awesome list of React headless components! PRs are welcome.
 - [React Values](https://github.com/ianstormtaylor/react-values) - A set of tiny, composable React components for handling state with render props.
 - [React Table](https://github.com/tannerlinsley/react-table) - Hooks for building lightweight, fast and extendable datagrids for React
 - [TanStack](https://tanstack.com/table/v8) - Headless UI for building powerful tables & datagrids
-- [React Headless Notifier](https://react-headless-notifier.recodable.io) - React component library for building highly customizable notification system.
+- [React Headless Notifier (Not maintained)](https://github.com/xstevenyung/react-headless-notifier) - React component library for building highly customizable notification system.
 - [React Virtual](https://github.com/tannerlinsley/react-virtual) - Hooks for virtualizing scrollable elements in React
 - [use-select](https://github.com/tannerlinsley/use-select) - A react-hook for building enhanced input components.
 - [React Aria](https://react-spectrum.adobe.com/react-aria/index.html) - A library of React Hooks that provides accessible UI primitives for your design system.
@@ -30,7 +30,6 @@ Awesome list of React headless components! PRs are welcome.
 - [MUI Base](https://github.com/mui/material-ui/tree/master/packages/mui-base) - MUI, but without the Material Design implementation.
 - [veccu/react-calendar](https://github.com/veccu/react-calendar) - React Hooks for building extensible calendar user interface
 - [React Headless MDE](https://github.com/webbrother/react-headless-mde) - React headless markdown editor
-- [Reach UI](https://reach.tech/) - Accessible components for your React-based design system
 
 ### Data
 
