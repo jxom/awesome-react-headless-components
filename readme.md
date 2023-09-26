@@ -31,6 +31,7 @@ Awesome list of React headless components! PRs are welcome.
 - [veccu/react-calendar](https://github.com/veccu/react-calendar) - React Hooks for building extensible calendar user interface
 - [React Headless MDE](https://github.com/webbrother/react-headless-mde) - React headless markdown editor
 - [Reach UI](https://reach.tech/) - Accessible components for your React-based design system
+- [Arc UI](https://github.com/chakra-ui/ark) -  A headless library for building reusable, scalable Design Systems that works for a wide range of JS frameworks.
 - [React Virtuoso](https://virtuoso.dev/) - React Virtuoso is a family of powerful, easy-to-use React components that display large data sets using virtualized rendering.
 - [Headless Date Picker](https://github.com/aliakbarazizi/headless-datepicker) -  Headless datepicker for React
 - [Floating UI](https://floating-ui.com/) - Tooltips, Modals, Popovers and other floating elements
@@ -40,7 +41,6 @@ Awesome list of React headless components! PRs are welcome.
 - [React Loads](https://github.com/jxom/react-loads) - A headless React component to handle promise states and response data.
 - [Restful React](https://github.com/contiamo/restful-react) - A set of data-fetching components that abstract away the state of requests, providing data to their children.
 - [Whizflow](https://github.com/itamarbareket/whizflow) - A lightweight, headless and extensible React library for building dynamic multi-step forms or troubleshooting workflows.
-
 
 ### Framework
 
