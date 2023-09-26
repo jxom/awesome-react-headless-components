@@ -31,6 +31,7 @@ Awesome list of React headless components! PRs are welcome.
 - [veccu/react-calendar](https://github.com/veccu/react-calendar) - React Hooks for building extensible calendar user interface
 - [React Headless MDE](https://github.com/webbrother/react-headless-mde) - React headless markdown editor
 - [Reach UI](https://reach.tech/) - Accessible components for your React-based design system
+- [Headless Date Picker](https://github.com/aliakbarazizi/headless-datepicker) -  Headless datepicker for React
 - [Floating UI](https://floating-ui.com/) - Tooltips, Modals, Popovers and other floating elements
 
 ### Data
