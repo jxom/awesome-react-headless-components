@@ -27,11 +27,14 @@ Awesome list of React headless components! PRs are welcome.
 - [use-select](https://github.com/tannerlinsley/use-select) - A react-hook for building enhanced input components.
 - [React Aria](https://react-spectrum.adobe.com/react-aria/index.html) - A library of React Hooks that provides accessible UI primitives for your design system.
 - [React Hook Form](https://github.com/react-hook-form/react-hook-form) - React Hooks for forms validation (Web + React Native)
-- [MUI Base](https://github.com/mui/material-ui/tree/master/packages/mui-base) - MUI, but without the Material Design implementation.
+- [Base UI](https://mui.com/base-ui/) - Material UI, but without the Material Design styles.
 - [veccu/react-calendar](https://github.com/veccu/react-calendar) - React Hooks for building extensible calendar user interface
 - [React Headless MDE](https://github.com/webbrother/react-headless-mde) - React headless markdown editor
 - [Reach UI](https://reach.tech/) - Accessible components for your React-based design system
-- [Arc ui](https://github.com/chakra-ui/ark) -  A headless library for building reusable, scalable Design Systems that works for a wide range of JS frameworks.
+- [Arc UI](https://github.com/chakra-ui/ark) -  A headless library for building reusable, scalable Design Systems that works for a wide range of JS frameworks.
+- [React Virtuoso](https://virtuoso.dev/) - React Virtuoso is a family of powerful, easy-to-use React components that display large data sets using virtualized rendering.
+- [Headless Date Picker](https://github.com/aliakbarazizi/headless-datepicker) -  Headless datepicker for React
+- [Floating UI](https://floating-ui.com/) - Tooltips, Modals, Popovers and other floating elements
 
 ### Data
 
