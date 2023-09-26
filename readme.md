@@ -32,6 +32,8 @@ Awesome list of React headless components! PRs are welcome.
 - [React Headless MDE](https://github.com/webbrother/react-headless-mde) - React headless markdown editor
 - [Reach UI](https://reach.tech/) - Accessible components for your React-based design system
 - [React Virtuoso](https://virtuoso.dev/) - React Virtuoso is a family of powerful, easy-to-use React components that display large data sets using virtualized rendering.
+- [Headless Date Picker](https://github.com/aliakbarazizi/headless-datepicker) -  Headless datepicker for React
+- [Floating UI](https://floating-ui.com/) - Tooltips, Modals, Popovers and other floating elements
 
 ### Data
 
