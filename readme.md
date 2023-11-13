@@ -15,6 +15,7 @@ Awesome list of React headless components! PRs are welcome.
 - [Reach UI](https://reach.tech/) - Accessible components for your React-based design system
 - [React Albus](https://github.com/americanexpress/react-albus): React component library for building declarative multi-step flows (wizards)
 - [React Aria](https://react-spectrum.adobe.com/react-aria/index.html) - A library of React Hooks that provides accessible UI primitives for your design system.
+- [react-headless-gallery](https://github.com/eyalzh/react-headless-gallery) - Fully headless, zero-dependencies gallery / carousel React component.
 - [React Headless MDE](https://github.com/webbrother/react-headless-mde) - React headless markdown editor
 - [React Hook Form](https://github.com/react-hook-form/react-hook-form) - React Hooks for forms validation (Web + React Native)
 - [React Ranger](https://github.com/react-tools/react-ranger) - A headless render-prop component for building range and multi-range sliders in React
@@ -33,7 +34,6 @@ Awesome list of React headless components! PRs are welcome.
 - [use-select](https://github.com/tannerlinsley/use-select) - A react-hook for building enhanced input components.
 - [veccu/react-calendar](https://github.com/veccu/react-calendar) - React Hooks for building extensible calendar user interface
 - [Whizflow](https://github.com/itamarbareket/whizflow) - A lightweight, headless and extensible React library for building dynamic multi-step forms or troubleshooting workflows.
-- [react-headless-gallery](https://github.com/eyalzh/react-headless-gallery) - Fully headless, zero-dependencies gallery / carousel React component.
 
 
 ## Articles
