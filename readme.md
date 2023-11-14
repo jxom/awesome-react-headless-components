@@ -33,6 +33,7 @@ Awesome list of React headless components! PRs are welcome.
 - [TanStack Table](https://tanstack.com/table/v8) - Headless UI for building powerful tables & datagrids
 - [use-select](https://github.com/tannerlinsley/use-select) - A react-hook for building enhanced input components.
 - [veccu/react-calendar](https://github.com/veccu/react-calendar) - React Hooks for building extensible calendar user interface
+- [virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list component for React
 - [Whizflow](https://github.com/itamarbareket/whizflow) - A lightweight, headless and extensible React library for building dynamic multi-step forms or troubleshooting workflows.
 
 
