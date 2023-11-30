@@ -4,7 +4,7 @@ Awesome list of React headless components! PRs are welcome.
 
 ## Libraries
 
-- [Arc UI](https://github.com/chakra-ui/ark) -  A headless library for building reusable, scalable Design Systems that works for a wide range of JS frameworks.
+- [Ark UI](https://github.com/chakra-ui/ark) -  A headless library for building reusable, scalable Design Systems that works for a wide range of JS frameworks.
 - [Base UI](https://mui.com/base-ui/) - Material UI, but without the Material Design styles.
 - [Dayzed](https://github.com/deseretdigital/dayzed) - Primitives to build simple, flexible, WAI-ARIA compliant React date-picker components
 - [Downshift](https://github.com/paypal/downshift) - Primitive to build simple, flexible, WAI-ARIA compliant enhanced input React components
