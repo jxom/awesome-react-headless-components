@@ -37,9 +37,3 @@ Awesome list of React headless components! PRs are welcome.
 - [veccu/react-calendar](https://github.com/veccu/react-calendar) - React Hooks for building extensible calendar user interface
 - [virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list component for React
 - [Whizflow](https://github.com/itamarbareket/whizflow) - A lightweight, headless and extensible React library for building dynamic multi-step forms or troubleshooting workflows.
-
-
-## Articles
-
-- [Headless User Interface Components](https://medium.com/merrickchristensen/headless-user-interface-components-565b0c0f2e18) by [iammerrick](https://github.com/iammerrick)
-- [Creating the ultimate flexibility via Container components in React](https://medium.com/zendesk-engineering/creating-the-ultimate-flexibility-via-container-components-in-react-e4b8eca5338c) by [Ryan Seddon](https://github.com/ryanseddon)
