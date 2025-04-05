@@ -2,6 +2,11 @@
 
 Awesome list of React headless components! PRs are welcome.
 
+## Resources
+
+- [Components Are Just Sparkling Hooks](https://www.bbss.dev/posts/sparkling-hooks/): Reinventing headless components from first principles with an overview of the pattern's benefits
+- [Headless Component: a pattern for composing React UIs](https://martinfowler.com/articles/headless-component.html): Exploring practical applications of headless components through multiple use-cases
+
 ## Libraries
 
 - [Ariakit](https://ariakit.org) - Headless component library and toolkit for building accessible web apps.
