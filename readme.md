@@ -2,11 +2,6 @@
 
 Awesome list of React headless components! PRs are welcome.
 
-## Resources
-
-- [Components Are Just Sparkling Hooks](https://www.bbss.dev/posts/sparkling-hooks/): Reinventing headless components from first principles with an overview of the pattern's benefits
-- [Headless Component: a pattern for composing React UIs](https://martinfowler.com/articles/headless-component.html): Exploring practical applications of headless components through multiple use-cases
-
 ## Libraries
 
 - [Ariakit](https://ariakit.org) - Headless component library and toolkit for building accessible web apps.
@@ -42,3 +37,8 @@ Awesome list of React headless components! PRs are welcome.
 - [veccu/react-calendar](https://github.com/veccu/react-calendar) - React Hooks for building extensible calendar user interface
 - [virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list component for React
 - [Whizflow](https://github.com/itamarbareket/whizflow) - A lightweight, headless and extensible React library for building dynamic multi-step forms or troubleshooting workflows.
+
+## Resources
+
+- [Components Are Just Sparkling Hooks](https://www.bbss.dev/posts/sparkling-hooks/): Reinventing headless components from first principles with an overview of the pattern's benefits
+- [Headless Component: a pattern for composing React UIs](https://martinfowler.com/articles/headless-component.html): Exploring practical applications of headless components through multiple use-cases
