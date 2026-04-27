@@ -34,6 +34,7 @@ Awesome list of React headless components! PRs are welcome.
 - [TanStack Query](https://tanstack.com/query) - Powerful asynchronous state management for TS/JS, React, Solid, Vue and Svelte.
 - [TanStack Table](https://tanstack.com/table/v8) - Headless UI for building powerful tables & datagrids
 - [use-select](https://github.com/tannerlinsley/use-select) - A react-hook for building enhanced input components.
+- [User Tour Kit](https://github.com/domidex01/tour-kit) - Headless onboarding primitives — product tours, hints, checklists, microsurveys, and announcements. Render-prop API, Radix UI primitives, WCAG 2.1 AA.
 - [veccu/react-calendar](https://github.com/veccu/react-calendar) - React Hooks for building extensible calendar user interface
 - [virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list component for React
 - [Whizflow](https://github.com/itamarbareket/whizflow) - A lightweight, headless and extensible React library for building dynamic multi-step forms or troubleshooting workflows.
