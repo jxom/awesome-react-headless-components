@@ -9,6 +9,7 @@ Awesome list of React headless components! PRs are welcome.
 - [Base UI](https://base-ui.com) - Unstyled UI components for building accessible web apps and design systems.
 - [Dayzed](https://github.com/deseretdigital/dayzed) - Primitives to build simple, flexible, WAI-ARIA compliant React date-picker components
 - [Downshift](https://github.com/paypal/downshift) - Primitive to build simple, flexible, WAI-ARIA compliant enhanced input React components
+- [editate](https://github.com/inokawa/editate) - A type-safe contenteditable state manager.
 - [Floating UI](https://floating-ui.com/) - Tooltips, Modals, Popovers and other floating elements
 - [Headless Date Picker](https://github.com/aliakbarazizi/headless-datepicker) -  Headless datepicker for React
 - [Headless Stepper](https://github.com/raisiqueira/headless-stepper-monorepo) - Production ready React hook to create awesome stepper components. Effortless to use, easy to customize.
