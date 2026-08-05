@@ -4,6 +4,7 @@ Awesome list of React headless components! PRs are welcome.
 
 ## Libraries
 
+- [AdaptTable](https://github.com/orwa-mahmoud/adapttable) - Headless data-table core with native adapters for eight React UI kits - URL state, filters, column management, grouping, inline editing, saved views, virtualization, RTL.
 - [Ariakit](https://ariakit.org) - Headless component library and toolkit for building accessible web apps.
 - [Ark UI](https://github.com/chakra-ui/ark) -  A headless library for building reusable, scalable Design Systems that works for a wide range of JS frameworks.
 - [Base UI](https://base-ui.com) - Unstyled UI components for building accessible web apps and design systems.
