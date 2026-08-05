@@ -16,6 +16,7 @@ Awesome list of React headless components! PRs are welcome.
 - [Headless Stepper](https://github.com/raisiqueira/headless-stepper-monorepo) - Production ready React hook to create awesome stepper components. Effortless to use, easy to customize.
 - [Headless UI](https://github.com/tailwindlabs/headlessui) – Completely unstyled, fully accessible UI components, designed to integrate with Tailwind CSS
 - [lightweight-charts-react-components](https://github.com/ukorvl/awesome-react-headless-components.git) - A set of headless React components for building financial charts with lightweight-charts library by TradingView
+- [Rad UI](https://github.com/rad-ui/ui) - An open-source, headless, accessibile UI component library for building modern, fast and performant React applications
 - [Radix UI](https://github.com/radix-ui/primitives) – A low-level UI component library with a focus on accessibility, customization and developer experience
 - [Reach UI](https://reach.tech/) - Accessible components for your React-based design system
 - [React Albus](https://github.com/americanexpress/react-albus): React component library for building declarative multi-step flows (wizards)
