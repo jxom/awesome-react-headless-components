@@ -8,6 +8,7 @@ Awesome list of React headless components! PRs are welcome.
 - [Ariakit](https://ariakit.org) - Headless component library and toolkit for building accessible web apps.
 - [Ark UI](https://github.com/chakra-ui/ark) -  A headless library for building reusable, scalable Design Systems that works for a wide range of JS frameworks.
 - [Base UI](https://base-ui.com) - Unstyled UI components for building accessible web apps and design systems.
+- [Dashforge](https://github.com/kensaadi/dashforge) - Headless form bridge and RBAC engine - schema-driven fields, dependent-field reactions and hide/disable/readonly access rules, rendered with your own components.
 - [Dayzed](https://github.com/deseretdigital/dayzed) - Primitives to build simple, flexible, WAI-ARIA compliant React date-picker components
 - [Downshift](https://github.com/paypal/downshift) - Primitive to build simple, flexible, WAI-ARIA compliant enhanced input React components
 - [editate](https://github.com/inokawa/editate) - A type-safe contenteditable state manager.
